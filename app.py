@@ -1,0 +1,1 @@
+print('Crictical bug fixed')
